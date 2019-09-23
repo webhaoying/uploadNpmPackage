@@ -4,5 +4,5 @@ const showMsg = () => {
 const add = (a, b) => a + b
 export {
   showMsg,
-  add,
+  add
 }
